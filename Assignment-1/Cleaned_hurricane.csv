@@ -1,0 +1,102 @@
+,Name,Season,Minimum pressure(mbar),Wind_150mph,Wind_140mph,Wind_155mph,Wind_130mph,Wind_145mph,August,November,July,October,September
+0,Hurricane #3,1853,924,1,0,0,0,0,1,0,0,0,1
+1,"""1856 Last Island Hurricane""",1856,934,1,0,0,0,0,1,0,0,0,0
+2,Hurricane #6,1866,938,0,1,0,0,0,0,0,0,1,1
+3,Hurricane #7,1878,938,0,1,0,0,0,0,0,0,1,1
+4,Hurricane #2,1880,931,1,0,0,0,0,1,0,0,0,0
+5,Hurricane #8,1880,928,0,1,0,0,0,0,0,0,1,1
+6,Hurricane #6,1882,975,0,1,0,0,0,0,0,0,1,0
+7,Indianola Hurricane of 1886,1886,925,0,0,1,0,0,1,0,0,0,0
+8,Hurricane #10,1893,948,0,0,0,1,0,0,0,0,1,1
+9,Hurricane #6,1894,931,0,0,0,1,0,0,0,0,1,0
+10,Hurricane #7,1898,930,0,0,0,1,0,0,0,0,1,1
+11,Hurricane #3,1899,930,1,0,0,0,0,1,0,0,0,1
+12,Galveston Hurricane of 1900,1900,936,0,0,0,0,1,1,0,0,0,1
+13,Hurricane #4,1906,950,0,0,0,1,0,1,0,0,0,1
+14,1910 Cuba hurricane,1910,924,1,0,0,0,0,0,0,0,1,0
+15,1915 Galveston hurricane,1915,940,0,0,0,0,1,1,0,0,0,0
+16,1915 New Orleans hurricane,1915,931,0,0,0,0,1,0,0,0,1,1
+17,1916 Texas hurricane,1916,932,0,0,0,1,0,1,0,0,0,0
+18,1917 Nueva Gerona hurricane,1917,928,1,0,0,0,0,0,0,0,0,1
+19,1919 Florida Keys hurricane,1919,927,1,0,0,0,0,0,0,0,0,1
+20,1921 Tampa Bay hurricane,1921,941,0,1,0,0,0,0,0,0,1,0
+21,1926 Nassau hurricane,1926,967,0,1,0,0,0,1,0,1,0,0
+22,Hurricane #4,1926,957,0,1,0,0,0,0,0,0,0,1
+23,1926 Miami hurricane,1926,930,1,0,0,0,0,0,0,0,0,1
+24,1926 Havanaâ€“Bermuda hurricane,1926,934,1,0,0,0,0,0,0,0,1,0
+25,1929 Bahamas hurricane,1929,924,0,0,1,0,0,0,0,0,1,1
+26,1930 Dominican Republic hurricane,1930,933,0,0,1,0,0,1,0,0,0,1
+27,1931 Belize hurricane,1931,952,0,0,0,1,0,0,0,0,0,1
+28,1932 Freeport hurricane,1932,935,1,0,0,0,0,1,0,0,0,0
+29,1932 San Ciprian hurricane,1932,943,0,0,0,0,1,0,0,0,0,1
+30,1933 Chesapeakeâ€“Potomac hurricane,1933,940,0,1,0,0,0,1,0,0,0,0
+31,1933 Treasure Coast hurricane,1933,945,0,1,0,0,0,1,0,0,0,1
+32,1933 Outer Banks hurricane,1933,947,0,1,0,0,0,0,0,0,0,1
+33,Hurricane #2,1935,955,0,0,0,1,0,1,0,0,0,0
+34,1935 Cuba hurricane,1935,945,0,1,0,0,0,0,0,0,1,1
+35,Hurricane #5,1939,941,0,1,0,0,0,0,0,0,1,0
+36,Hurricane #4,1941,957,0,0,0,1,0,0,0,0,0,1
+37,1944 Great Atlantic hurricane,1944,933,0,0,0,0,1,0,0,0,0,1
+38,1944 Cubaâ€“Florida hurricane,1944,937,0,0,0,0,1,0,0,0,1,0
+39,1945 Homestead hurricane,1945,949,0,0,0,1,0,0,0,0,0,1
+40,1947 Fort Lauderdale hurricane,1947,938,0,0,0,0,1,0,0,0,0,1
+41,1948 Bermudaâ€“Newfoundland hurricane,1948,940,0,0,0,1,0,0,0,0,0,1
+42,September 1948 Florida hurricane,1948,940,0,0,0,1,0,0,0,0,0,1
+43,1949 Florida hurricane,1949,954,1,0,0,0,0,1,0,0,0,0
+44,Hurricane Dog,1950,943,0,0,0,0,1,0,0,0,0,1
+45,Hurricane Fox,1950,946,0,1,0,0,0,0,0,0,0,1
+46,Hurricane King,1950,955,0,0,0,1,0,0,0,0,1,0
+47,Hurricane Charlie,1951,958,0,0,0,1,0,1,0,0,0,0
+48,Hurricane Easy,1951,937,1,0,0,0,0,0,0,0,0,1
+49,Hurricane Fox,1952,934,0,0,0,0,1,0,0,0,1,0
+50,Hurricane Hazel,1954,937,0,0,0,1,0,0,0,0,1,0
+51,Hurricane Connie,1955,944,0,1,0,0,0,1,0,0,0,0
+52,Hurricane Ione,1955,938,0,1,0,0,0,0,0,0,0,1
+53,Hurricane Carrie,1957,945,0,1,0,0,0,0,0,0,0,1
+54,Hurricane Cleo,1958,947,0,1,0,0,0,1,0,0,0,0
+55,Hurricane Daisy,1958,948,0,0,0,1,0,1,0,0,0,0
+56,Hurricane Helene,1958,934,0,0,0,1,0,0,0,0,0,1
+57,Hurricane Gracie,1959,950,0,1,0,0,0,0,0,0,0,1
+58,Hurricane Donna,1960,930,0,0,0,0,1,0,0,0,0,1
+59,Hurricane Betsy,1961,945,0,1,0,0,0,0,0,0,0,1
+60,Hurricane Esther,1961,927,0,0,0,0,1,0,0,0,0,1
+61,Hurricane Flora,1963,940,0,0,0,0,1,0,0,0,1,1
+62,Hurricane Cleo,1964,950,0,0,1,0,0,1,0,0,0,1
+63,Hurricane Dora,1964,942,0,0,0,1,0,1,0,0,0,1
+64,Hurricane Gladys,1964,945,0,0,0,0,1,0,0,0,0,1
+65,Hurricane Hilda,1964,941,1,0,0,0,0,0,0,0,1,1
+66,Hurricane Betsy,1965,941,0,0,1,0,0,1,0,0,0,1
+67,Hurricane Inez,1966,929,1,0,0,0,0,0,0,0,1,1
+68,Hurricane Carmen,1974,928,1,0,0,0,0,1,0,0,0,1
+69,Hurricane Gladys,1975,939,0,1,0,0,0,0,0,0,1,1
+70,Hurricane Ella,1978,956,0,1,0,0,0,1,0,0,0,1
+71,Hurricane Greta,1978,947,0,0,0,1,0,0,0,0,0,1
+72,Hurricane Frederic,1979,943,0,0,0,1,0,1,0,0,0,1
+73,Hurricane Harvey,1981,946,0,0,0,1,0,0,0,0,0,1
+74,Hurricane Debby,1982,950,0,0,0,1,0,0,0,0,0,1
+75,Hurricane Diana,1984,949,0,0,0,1,0,0,0,0,0,1
+76,Hurricane Gloria,1985,919,0,0,0,0,1,0,0,0,1,1
+77,Hurricane Helene,1988,938,0,0,0,0,1,0,0,0,0,1
+78,Hurricane Joan,1988,932,0,0,0,0,1,0,1,0,1,0
+79,Hurricane Gabrielle,1989,935,0,0,0,0,1,1,0,0,0,1
+80,Hurricane Claudette,1991,943,0,0,0,1,0,0,0,0,0,1
+81,Hurricane Felix,1995,929,0,1,0,0,0,1,0,0,0,0
+82,Hurricane Luis,1995,935,0,1,0,0,0,1,0,0,0,1
+83,Hurricane Opal,1995,916,1,0,0,0,0,0,0,0,1,1
+84,Hurricane Edouard,1996,933,0,0,0,0,1,1,0,0,0,1
+85,Hurricane Hortense,1996,935,0,1,0,0,0,0,0,0,0,1
+86,Hurricane Georges,1998,937,0,0,1,0,0,0,0,0,1,1
+87,Hurricane Bret,1999,944,0,0,0,0,1,1,0,0,0,0
+88,Hurricane Cindy,1999,942,0,1,0,0,0,1,0,0,0,0
+89,Hurricane Floyd,1999,921,0,0,1,0,0,0,0,0,0,1
+90,Hurricane Gert,1999,930,1,0,0,0,0,0,0,0,0,1
+91,Hurricane Lenny,1999,933,0,0,1,0,0,0,1,0,0,0
+92,Hurricane Isaac,2000,943,0,1,0,0,0,0,0,0,1,1
+93,Hurricane Keith,2000,939,0,1,0,0,0,0,0,0,1,1
+94,Hurricane Iris,2001,948,0,0,0,0,1,0,0,0,1,0
+95,Hurricane Michelle,2001,933,0,1,0,0,0,0,1,0,0,0
+96,Hurricane Lili,2002,938,0,0,0,0,1,0,0,0,1,0
+97,Hurricane Fabian,2003,939,0,0,0,0,1,1,0,0,0,1
+98,Hurricane Charley,2004,941,1,0,0,0,0,1,0,0,0,0
+99,Hurricane Frances,2004,935,0,0,0,0,1,1,0,0,0,1
+100,Hurricane Karl,2004,938,0,0,0,0,1,0,0,0,0,1
